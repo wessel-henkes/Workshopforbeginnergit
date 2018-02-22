@@ -1,5 +1,7 @@
 # Workshopforbeginnergit
 This is the readme for the workshop for git beginners by Martijn Bakker, Sijmen Jaarsma, Jari Oostrom, and Renske Zandberg.
+Start here: https://github.com/Sijmen1/Workshopforbeginnergit/wiki
+
 
 What should go here?
 ## Synopsis
